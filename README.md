@@ -3,6 +3,8 @@ Angular JS2 for Raspberry Pi Docker
 
 Dockerfile is here.
 
+Some of this is based upon the node.js Dockerfiles found in this article http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
+
 Start with instructions found in http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi
 
 Once you have docker set up and running, build this with
