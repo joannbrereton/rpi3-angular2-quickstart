@@ -1,4 +1,4 @@
-# angularjs2-on-docker-for-rpi-arm
+# docker-rpi3-angular2-quickstart
 Angular JS2 for Raspberry Pi Docker
 
 Dockerfile is here.
@@ -36,4 +36,4 @@ docker exec -it angularjs bash
 ```
 
 Direct access to the image itself can be found at https://hub.docker.com/r/brereton/angularjs/
-# docker-rpi3-angular2-quickstart
+
