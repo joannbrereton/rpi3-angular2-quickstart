@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:jessie-20160831
+FROM brereton/rpi3node
 MAINTAINER joann.brereton@gmail.com
 
 RUN apt-get update && \
