@@ -1,4 +1,4 @@
-# docker-rpi3-angular2-quickstart
+# rpi3-angular2-quickstart
 Angular JS2 for Raspberry Pi Docker
 
 Dockerfile is here.
